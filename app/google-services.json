@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "32406216078",
+    "firebase_url": "https://superuser-d28ad.firebaseio.com",
+    "project_id": "superuser-d28ad",
+    "storage_bucket": "superuser-d28ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32406216078:android:c65eb268710f14ca1898df",
+        "android_client_info": {
+          "package_name": "superuser.desarrollosmoyan.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32406216078-fmrvhae2utsok2g25nl9u8ka68afrkhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlncUAtNOkx6G1znM9U2axuG0Cktr6oDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32406216078-fmrvhae2utsok2g25nl9u8ka68afrkhq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
